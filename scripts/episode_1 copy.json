@@ -1,0 +1,82 @@
+{
+    "title": "Episode 1: The Great AI Debate",
+  
+    "characters": {
+      "alice":   {"full_name": "Alice",   "role": "optimist"},
+      "bob":     {"full_name": "Bob",     "role": "skeptic"},
+      "charlie": {"full_name": "Charlie", "role": "scientist"},
+      "diana":   {"full_name": "Diana",   "role": "philosopher"}
+    },
+  
+    "scenes": [
+      {
+        "id": "scene_001",
+        "background": "living_room",
+        "dialogue": [
+          {
+            "id": "s001_l001",
+            "character": "alice",
+            "text": "Have you all seen what the new AI can do? It wrote a symphony yesterday!",
+            "emotion": "excited",
+            "gesture": "arms_up",
+            "pause_after": 0.6
+          },
+          {
+            "id": "s001_l002",
+            "character": "bob",
+            "text": "Oh please. It doesn't 'write' anything. It's just autocomplete with a marketing budget.",
+            "emotion": "sarcastic",
+            "gesture": "arms_crossed",
+            "pause_after": 0.5
+          },
+          {
+            "id": "s001_l003",
+            "character": "charlie",
+            "text": "Well technically, Bob, it does use transformer-based prediction — but the outputs are genuinely novel.",
+            "emotion": "thinking",
+            "gesture": "thinking",
+            "pause_after": 0.7
+          },
+          {
+            "id": "s001_l004",
+            "character": "diana",
+            "text": "The real question isn't what it does, it's what it means. If it creates beauty, does the origin matter?",
+            "emotion": "serious",
+            "gesture": "idle",
+            "pause_after": 1.2
+          },
+          {
+            "id": "s001_l005",
+            "character": "bob",
+            "text": "Does the origin matter? Did you just seriously ask that with a straight face?",
+            "emotion": "surprised",
+            "gesture": "wave_right",
+            "pause_after": 0.4
+          },
+          {
+            "id": "s001_l006",
+            "character": "alice",
+            "text": "Ha! Bob's face right now is priceless!",
+            "emotion": "laughing",
+            "gesture": "arms_up",
+            "pause_after": 0.8
+          }
+        ]
+      },
+      {
+        "id": "scene_002",
+        "background": "living_room",
+        "dialogue": [
+          {
+            "id": "s002_l001",
+            "character": "charlie",
+            "text": "Alright, alright. Let me give you all a concrete example...",
+            "emotion": "neutral",
+            "gesture": "point_right",
+            "pause_after": 0.6
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,73 @@
+{
+  "title": "Pipeline Test — Tiny Script",
+
+  "characters": {
+    "alice":   {"full_name": "Alice",   "role": "optimist"},
+    "bob":     {"full_name": "Bob",     "role": "skeptic"},
+    "charlie": {"full_name": "Charlie", "role": "scientist"},
+    "diana":   {"full_name": "Diana",   "role": "philosopher"}
+  },
+
+  "scenes": [
+    {
+      "id": "scene_001",
+      "background": "living_room",
+      "dialogue": [
+        {
+          "id": "s001_l001",
+          "character": "alice",
+          "text": "I cannot believe how fast this works!",
+          "emotion": "excited",
+          "gesture": "arms_up",
+          "pause_after": 0.6
+        },
+        {
+          "id": "s001_l002",
+          "character": "bob",
+          "text": "Sure. I will believe it when I see it.",
+          "emotion": "sarcastic",
+          "gesture": "arms_crossed",
+          "pause_after": 0.5
+        },
+        {
+          "id": "s001_l003",
+          "character": "charlie",
+          "text": "The data actually supports her claim, Bob.",
+          "emotion": "thinking",
+          "gesture": "point_right",
+          "pause_after": 0.7
+        }
+      ]
+    },
+    {
+      "id": "scene_002",
+      "background": "living_room",
+      "dialogue": [
+        {
+          "id": "s002_l001",
+          "character": "diana",
+          "text": "What does it mean to truly understand something?",
+          "emotion": "serious",
+          "gesture": "idle",
+          "pause_after": 0.8
+        },
+        {
+          "id": "s002_l002",
+          "character": "bob",
+          "text": "Oh no, not another deep question. Please.",
+          "emotion": "surprised",
+          "gesture": "wave_left",
+          "pause_after": 0.5
+        },
+        {
+          "id": "s002_l003",
+          "character": "alice",
+          "text": "Ha! Your face, Bob. Absolutely priceless.",
+          "emotion": "laughing",
+          "gesture": "arms_up",
+          "pause_after": 1.0
+        }
+      ]
+    }
+  ]
+}

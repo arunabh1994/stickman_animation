@@ -1,0 +1,134 @@
+{
+  "title": "Forever Is a Long Time",
+  "characters": {
+    "alice":   {"full_name": "Alice",   "role": "optimist"},
+    "bob":     {"full_name": "Bob",     "role": "skeptic"},
+    "charlie": {"full_name": "Charlie", "role": "scientist"},
+    "diana":   {"full_name": "Diana",   "role": "philosopher"}
+  },
+  "scenes": [
+    {
+      "id": "scene_001",
+      "background": "living_room",
+      "dialogue": [
+        {"id":"s001_l001","character":"alice","text":"Okay, you all need to hear this. Scientists just announced they reversed aging in mice. Like, properly reversed it. The mice are biologically younger than when the study started.","emotion":"excited","gesture":"arms_up","pause_after":0.6},
+        {"id":"s001_l002","character":"bob","text":"Alice, scientists are always reversing aging in mice. Last year they cured cancer in mice. The year before that they cured Alzheimers in mice. Mice are having a fantastic decade.","emotion":"sarcastic","gesture":"arms_crossed","pause_after":0.5},
+        {"id":"s001_l003","character":"alice","text":"This one is different! They published in Nature. Charlie, back me up here.","emotion":"excited","gesture":"point_right","pause_after":0.4},
+        {"id":"s001_l004","character":"charlie","text":"Well, the senolytic research coming out of several major institutions is genuinely compelling. Clearing senescent cells in animal models has extended median lifespan by up to thirty percent in some trials.","emotion":"thinking","gesture":"idle","pause_after":0.5},
+        {"id":"s001_l005","character":"bob","text":"Thirty percent. So instead of living to eighty, I live to a hundred and four. Spending the last twenty-four of those years being a hundred and four. Great.","emotion":"sarcastic","gesture":"wave_right","pause_after":0.6},
+        {"id":"s001_l006","character":"alice","text":"No no no. The whole point is it keeps you biologically young. Not just older for longer. Young. Forever.","emotion":"excited","gesture":"arms_up","pause_after":0.5},
+        {"id":"s001_l007","character":"diana","text":"Before we discuss whether we could live forever, perhaps we should ask whether we should.","emotion":"serious","gesture":"idle","pause_after":0.8},
+        {"id":"s001_l008","character":"bob","text":"Diana, we have been friends for seven years. You have never once answered a question without turning it into a completely different question.","emotion":"sarcastic","gesture":"point_right","pause_after":0.4},
+        {"id":"s001_l009","character":"diana","text":"And has that ever stopped being useful?","emotion":"neutral","gesture":"idle","pause_after":0.7},
+        {"id":"s001_l010","character":"bob","text":"No. It is extremely annoying that it has not.","emotion":"neutral","gesture":"arms_crossed","pause_after":0.6},
+        {"id":"s001_l011","character":"alice","text":"Okay here is the actual question. Purely hypothetical. You can take a pill tonight. You stay biologically thirty five forever. Perfect health. Never age. Would you do it?","emotion":"excited","gesture":"point_right","pause_after":0.5},
+        {"id":"s001_l012","character":"bob","text":"Define thirty five. Because I have a knee that already feels sixty.","emotion":"sarcastic","gesture":"idle","pause_after":0.4},
+        {"id":"s001_l013","character":"alice","text":"Optimal health! Perfect body! Bob, focus.","emotion":"happy","gesture":"wave_right","pause_after":0.4},
+        {"id":"s001_l014","character":"charlie","text":"I would want to know the mechanism first. Telomere extension? Epigenetic reprogramming? Full cellular replacement cycle?","emotion":"thinking","gesture":"thinking","pause_after":0.5},
+        {"id":"s001_l015","character":"alice","text":"Charlie, it is a hypothetical pill. It does not have a mechanism. Just say yes or no!","emotion":"laughing","gesture":"arms_up","pause_after":0.8}
+      ]
+    },
+    {
+      "id": "scene_002",
+      "background": "living_room",
+      "dialogue": [
+        {"id":"s002_l001","character":"charlie","text":"Fine. Provisionally yes.","emotion":"neutral","gesture":"idle","pause_after":0.4},
+        {"id":"s002_l002","character":"alice","text":"See! Even Charlie said yes! Bob, your turn.","emotion":"excited","gesture":"point_right","pause_after":0.4},
+        {"id":"s002_l003","character":"bob","text":"Absolutely not.","emotion":"serious","gesture":"arms_crossed","pause_after":0.5},
+        {"id":"s002_l004","character":"alice","text":"What? Why?","emotion":"surprised","gesture":"arms_up","pause_after":0.4},
+        {"id":"s002_l005","character":"bob","text":"Because I have watched every season of every show worth watching. I am already running out of things to do. Forever is a long time, Alice.","emotion":"sarcastic","gesture":"arms_crossed","pause_after":0.6},
+        {"id":"s002_l006","character":"alice","text":"You would find new things! There is always more to discover. New art, new music, new places!","emotion":"excited","gesture":"arms_up","pause_after":0.5},
+        {"id":"s002_l007","character":"bob","text":"New places? Alice, I have not even finished exploring my own city. There is a restaurant two blocks from my apartment I have been meaning to try for four years.","emotion":"sarcastic","gesture":"point_left","pause_after":0.5},
+        {"id":"s002_l008","character":"charlie","text":"Actually, there is an interesting evolutionary argument here. Some biologists believe programmed aging exists specifically to force genetic variation. Immortal individuals might stagnate the species.","emotion":"thinking","gesture":"idle","pause_after":0.6},
+        {"id":"s002_l009","character":"alice","text":"Or we would have enough time to actually solve our problems! Climate change, poverty, disease. Imagine what you could accomplish with three hundred years of experience.","emotion":"excited","gesture":"arms_up","pause_after":0.5},
+        {"id":"s002_l010","character":"bob","text":"Imagine three hundred years of the same politicians. Alice, some things should have term limits, and life is one of them.","emotion":"sarcastic","gesture":"wave_right","pause_after":0.6},
+        {"id":"s002_l011","character":"alice","text":"Okay. That is actually a fair point.","emotion":"thinking","gesture":"idle","pause_after":0.5},
+        {"id":"s002_l012","character":"diana","text":"There is also the Ship of Theseus problem. If every cell in your body is replaced and regenerated over three centuries, are you still you? At what point does the person who took the pill stop being the person who exists now?","emotion":"serious","gesture":"thinking","pause_after":0.8},
+        {"id":"s002_l013","character":"bob","text":"At three hundred I would have forgotten so much I would basically be a new person anyway. Honestly that might be a feature, not a bug.","emotion":"sarcastic","gesture":"shrug","pause_after":0.5},
+        {"id":"s002_l014","character":"charlie","text":"That actually raises a genuinely unsettling question. Would you want to remember everything? Three hundred years of memories might be cognitively overwhelming in ways we cannot predict.","emotion":"thinking","gesture":"thinking","pause_after":0.6},
+        {"id":"s002_l015","character":"alice","text":"Your brain would adapt! It would grow! Charlie, you are looking for problems in the hypothetical again.","emotion":"happy","gesture":"wave_right","pause_after":0.8}
+      ]
+    },
+    {
+      "id": "scene_003",
+      "background": "living_room",
+      "dialogue": [
+        {"id":"s003_l001","character":"bob","text":"Okay. Let us say I am immortal. Walk me through year one hundred and fifty. What am I actually doing on a Tuesday afternoon?","emotion":"sarcastic","gesture":"arms_crossed","pause_after":0.5},
+        {"id":"s003_l002","character":"alice","text":"You have learned seventeen languages. Traveled to every country on earth. You are probably a master chef at this point.","emotion":"excited","gesture":"point_right","pause_after":0.5},
+        {"id":"s003_l003","character":"bob","text":"I cannot cook pasta correctly now. What makes you think two hundred years fixes that.","emotion":"sarcastic","gesture":"shrug","pause_after":0.5},
+        {"id":"s003_l004","character":"alice","text":"Because you would have time to actually practice! You could become literally the best in the world at anything!","emotion":"excited","gesture":"arms_up","pause_after":0.5},
+        {"id":"s003_l005","character":"charlie","text":"That is consistent with research on expertise. Roughly ten thousand hours of deliberate practice to reach world-class level. Immortality would democratize excellence. Anyone could master anything given enough time.","emotion":"neutral","gesture":"idle","pause_after":0.6},
+        {"id":"s003_l006","character":"bob","text":"Sure. And when everyone is world class at everything, what does world class even mean?","emotion":"thinking","gesture":"arms_crossed","pause_after":0.6},
+        {"id":"s003_l007","character":"diana","text":"Now you are touching on something Nietzsche was deeply concerned with. The collapse of hierarchies of achievement, and what fills the void when they go.","emotion":"serious","gesture":"idle","pause_after":0.7},
+        {"id":"s003_l008","character":"bob","text":"I was asking a rhetorical question, Diana. I did not expect Nietzsche to appear in this conversation.","emotion":"surprised","gesture":"wave_right","pause_after":0.5},
+        {"id":"s003_l009","character":"diana","text":"Nietzsche always appears eventually.","emotion":"neutral","gesture":"idle","pause_after":0.8},
+        {"id":"s003_l010","character":"alice","text":"What about relationships? In three hundred years you would make so many meaningful connections. Friends, loves, mentors. Think about the richness of that.","emotion":"happy","gesture":"arms_up","pause_after":0.5},
+        {"id":"s003_l011","character":"bob","text":"Or, Alice, you go through the pain of losing everyone you love on repeat for three centuries. That is not richness. That is torture with intermissions.","emotion":"serious","gesture":"arms_crossed","pause_after":0.7},
+        {"id":"s003_l012","character":"alice","text":"But if the option exists for you, it exists for everyone. You just convince the people you love to take it too.","emotion":"excited","gesture":"point_right","pause_after":0.5},
+        {"id":"s003_l013","character":"bob","text":"Great. Hi Mum, fantastic news, we are all immortal now, please stop whatever you were planning for the future.","emotion":"sarcastic","gesture":"wave_right","pause_after":0.5},
+        {"id":"s003_l014","character":"alice","text":"Ha! Exactly like that!","emotion":"laughing","gesture":"arms_up","pause_after":0.5},
+        {"id":"s003_l015","character":"charlie","text":"But not everyone would choose it. Some people have genuine peace with mortality. And if only some are immortal and others are not, what does society actually look like? Two classes. The permanent and the temporary.","emotion":"serious","gesture":"thinking","pause_after":0.8}
+      ]
+    },
+    {
+      "id": "scene_004",
+      "background": "living_room",
+      "dialogue": [
+        {"id":"s004_l001","character":"charlie","text":"Can I tell you all something that actually changed how I think about this?","emotion":"serious","gesture":"idle","pause_after":0.5},
+        {"id":"s004_l002","character":"alice","text":"Of course.","emotion":"neutral","gesture":"idle","pause_after":0.4},
+        {"id":"s004_l003","character":"charlie","text":"My grandmother passed away last year. She was ninety two years old. And in the last decade of her life, she watched almost everyone she had ever loved die before her. Her husband. Her siblings. Most of her closest friends.","emotion":"sad","gesture":"idle","pause_after":0.7},
+        {"id":"s004_l004","character":"charlie","text":"She told me near the end that outliving everyone you love is its own kind of death. That she had been grieving, more or less continuously, for fifteen years by that point.","emotion":"sad","gesture":"idle","pause_after":0.8},
+        {"id":"s004_l005","character":"bob","text":"I am really sorry, Charlie.","emotion":"serious","gesture":"idle","pause_after":0.6},
+        {"id":"s004_l006","character":"alice","text":"Yeah. I am sorry.","emotion":"serious","gesture":"idle","pause_after":0.5},
+        {"id":"s004_l007","character":"charlie","text":"Thank you. My point is that eternal life without the people you love is not eternal life. It is just eternal time. And those are very different things.","emotion":"serious","gesture":"idle","pause_after":0.7},
+        {"id":"s004_l008","character":"diana","text":"That is the most honest thing anyone has said today.","emotion":"serious","gesture":"idle","pause_after":0.7},
+        {"id":"s004_l009","character":"alice","text":"I hear that. I really do. But that is still a problem with access, not with the idea itself. If the choice existed for everyone, the grief equation changes completely.","emotion":"thinking","gesture":"thinking","pause_after":0.6},
+        {"id":"s004_l010","character":"charlie","text":"But convincing someone to abandon their relationship with death is not a small thing, Alice. Some people have built their entire understanding of life around its meaning. Their faith. Their legacy. Their peace with things.","emotion":"serious","gesture":"idle","pause_after":0.7},
+        {"id":"s004_l011","character":"diana","text":"The Epicureans believed that death is nothing to fear. When death is present you are not, and when you are present death is not. The absence of experience is not an experience of absence.","emotion":"serious","gesture":"idle","pause_after":0.8},
+        {"id":"s004_l012","character":"bob","text":"Every single time Diana speaks I feel like I need a philosophy degree just to process it before I can respond.","emotion":"sarcastic","gesture":"wave_right","pause_after":0.5},
+        {"id":"s004_l013","character":"diana","text":"Would you prefer I speak less?","emotion":"neutral","gesture":"idle","pause_after":0.4},
+        {"id":"s004_l014","character":"bob","text":"No. It is the highlight of every Tuesday. I just need a moment after each sentence.","emotion":"sarcastic","gesture":"idle","pause_after":0.6},
+        {"id":"s004_l015","character":"diana","text":"Take your time.","emotion":"happy","gesture":"idle","pause_after":0.9}
+      ]
+    },
+    {
+      "id": "scene_005",
+      "background": "living_room",
+      "dialogue": [
+        {"id":"s005_l001","character":"alice","text":"Bob. Come on. Real talk. You are genuinely telling me that if the pill was sitting in your hand tonight you would say no?","emotion":"serious","gesture":"point_right","pause_after":0.5},
+        {"id":"s005_l002","character":"bob","text":"Real talk? I do not want to outlive my purpose.","emotion":"serious","gesture":"idle","pause_after":0.6},
+        {"id":"s005_l003","character":"alice","text":"What does that even mean?","emotion":"surprised","gesture":"shrug","pause_after":0.4},
+        {"id":"s005_l004","character":"bob","text":"I mean that I want my life to have a shape. A beginning. A middle. An end. Infinite time makes everything feel optional. Why do anything today if you have forever to do it?","emotion":"serious","gesture":"arms_crossed","pause_after":0.7},
+        {"id":"s005_l005","character":"alice","text":"That is just poor time management.","emotion":"sarcastic","gesture":"idle","pause_after":0.4},
+        {"id":"s005_l006","character":"bob","text":"Alice, you have been twenty minutes late to every single thing we have done together in seven years.","emotion":"sarcastic","gesture":"point_left","pause_after":0.4},
+        {"id":"s005_l007","character":"alice","text":"That is completely beside the point!","emotion":"surprised","gesture":"wave_right","pause_after":0.5},
+        {"id":"s005_l008","character":"charlie","text":"Actually Bob is referencing something real. Terror Management Theory. Research suggests that awareness of our own mortality is one of the primary drivers of human creativity, achievement, generosity, and even the depth of our love. Remove the deadline, you might remove a lot of what motivates us.","emotion":"thinking","gesture":"idle","pause_after":0.7},
+        {"id":"s005_l009","character":"diana","text":"Heidegger called death the ownmost possibility. The one certainty that makes your existence uniquely and irreducibly yours. He believed that genuinely confronting it is the only path to an authentically lived life.","emotion":"serious","gesture":"idle","pause_after":0.8},
+        {"id":"s005_l010","character":"bob","text":"Yeah. What she said.","emotion":"neutral","gesture":"point_right","pause_after":0.5},
+        {"id":"s005_l011","character":"alice","text":"So both of you are telling me that the thing that makes life worth living is knowing it is going to end? That is one of the most depressing things I have ever heard.","emotion":"sad","gesture":"arms_crossed","pause_after":0.6},
+        {"id":"s005_l012","character":"charlie","text":"Or one of the most liberating. Depending on how you choose to hold it.","emotion":"serious","gesture":"idle","pause_after":0.6},
+        {"id":"s005_l013","character":"alice","text":"I need a minute with that.","emotion":"thinking","gesture":"thinking","pause_after":1.2}
+      ]
+    },
+    {
+      "id": "scene_006",
+      "background": "living_room",
+      "dialogue": [
+        {"id":"s006_l001","character":"bob","text":"Okay I want to push back on something. You said we would have three hundred years to solve climate change and poverty and all of it. But what if we do not? What if we just have three hundred years to watch ourselves fail at all of it?","emotion":"serious","gesture":"arms_crossed","pause_after":0.6},
+        {"id":"s006_l002","character":"alice","text":"That is not going to happen.","emotion":"neutral","gesture":"idle","pause_after":0.4},
+        {"id":"s006_l003","character":"bob","text":"How do you know? We have had literally thousands of years as a civilization and we still have not figured out how to consistently be decent to each other.","emotion":"angry","gesture":"arms_crossed","pause_after":0.6},
+        {"id":"s006_l004","character":"alice","text":"Because we keep getting better. Slowly and painfully, but we do. The arc bends, Bob.","emotion":"serious","gesture":"point_right","pause_after":0.5},
+        {"id":"s006_l005","character":"bob","text":"The arc bends. What a thing to place your faith in.","emotion":"sarcastic","gesture":"shrug","pause_after":0.5},
+        {"id":"s006_l006","character":"alice","text":"What is your alternative? Just give up and accept that nothing gets better?","emotion":"angry","gesture":"arms_up","pause_after":0.4},
+        {"id":"s006_l007","character":"bob","text":"No. Participate fully in the time you have, and then let the next generation take their turn. That is how it is supposed to work.","emotion":"serious","gesture":"idle","pause_after":0.6},
+        {"id":"s006_l008","character":"charlie","text":"I want to offer something. You are both right. Alice, more time means more potential for progress. Bob, time alone does not guarantee wisdom. These are not contradictions. They are both just true at the same time.","emotion":"neutral","gesture":"idle","pause_after":0.7},
+        {"id":"s006_l009","character":"alice","text":"Charlie always does that thing where he makes both sides feel heard, and it is incredibly frustrating when you are trying to actually win an argument.","emotion":"sarcastic","gesture":"wave_right","pause_after":0.5},
+        {"id":"s006_l010","character":"charlie","text":"I am not trying to resolve it. I am just noting the shape of it.","emotion":"neutral","gesture":"idle","pause_after":0.6},
+        {"id":"s006_l011","character":"diana","text":"Perhaps the real question is not about quantity of time but quality of attention. Are we genuinely present in the time we already have?","emotion":"serious","gesture":"thinking","pause_after":0.8},
+        {"id":"s006_l012","character":"bob","text":"I was on my phone for at least forty percent of this conversation.","emotion":"sarcastic","gesture":"shrug","pause_after":0.5},
+        {"id":"s006_l013","character":"alice","text":"Same honestly.","emotion":"laughing","gesture":"idle","pause_after":0.5},
+        {"id":"s006_l014","character":"diana","text":"I rest my case.","emotion":"sarcastic","gesture":"idle","pause_after":1.0}
+      ]
+    }
+  ]
+}
